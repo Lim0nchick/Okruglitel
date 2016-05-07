@@ -1,0 +1,18 @@
+﻿Сборка начата 21.02.16 19:57:21.
+     1>Проект "C:\Users\Lim0nchick\documents\visual studio 2013\Projects\Win32Project13\Win32Project13\Win32Project13.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Win32Project13.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Win32Project13.cpp
+         Win32Project13.cpp
+     1>Win32Project13.cpp(49): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "CHAR [128]" в "LPCWSTR"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>Win32Project13.cpp(50): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "CHAR [128]" в "LPCWSTR"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>Win32Project13.cpp(51): error C2664: "BOOL SetDlgItemTextW(HWND,int,LPCWSTR)": невозможно преобразовать аргумент 3 из "CHAR [128]" в "LPCWSTR"
+                 Типы, на которые указывают указатели, не связаны; для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>Win32Project13.cpp(65): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>Win32Project13.cpp(75): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>Сборка проекта "C:\Users\Lim0nchick\documents\visual studio 2013\Projects\Win32Project13\Win32Project13\Win32Project13.vcxproj" завершена (целевые объекты Build) с ошибкой.
+
+Ошибка сборки.
+
+Затраченное время: 00:00:00.61

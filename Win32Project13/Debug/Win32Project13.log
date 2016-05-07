@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Win32Project13.cpp
+c:\users\lim0nchick\desktop\win32project13\win32project13\win32project13.cpp(81): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\lim0nchick\desktop\win32project13\win32project13\win32project13.cpp(112): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Win32Project13.vcxproj -> C:\Users\Lim0nchick\Desktop\Win32Project13\Debug\Win32Project13.exe
